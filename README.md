@@ -49,7 +49,7 @@ This repository contains the firmware and documentation for a lowâ€‘power, EMGâ€
    - Ensure the correct MCU model is selected.
 
 3. **Configure clock and peripherals**
-   - Select the open project from existing `.ioc` file and use our `.ioc`. With this, CubeIDE will detup everything for you. You may need to replace the main.c it generates with ours.
+   - Select the open project from existing `.ioc` file option and use our `.ioc` file. With this, CubeIDE will setup everything for you. You may need to replace the `main.c` it generates with ours.
 
 4. **Build and Flash**
    - Click **Build** (hammer icon) to compile.
