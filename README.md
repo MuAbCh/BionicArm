@@ -40,8 +40,8 @@ This repository contains the firmware and documentation for a low‑power, EMG�
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your‑username>/smart‑prosthetic‑arm.git
-   cd smart‑prosthetic‑arm
+   git clone https://github.com/MuAbCh/BionicArm.git
+   cd BionicArm
    ```
 
 2. **Open in STM32CubeIDE**
