@@ -49,7 +49,7 @@ This repository contains the firmware and documentation for a low‑power, EMG�
    - Ensure the correct MCU model is selected.
 
 3. **Configure clock and peripherals**
-   - In `.ioc` file, set system clock to 84 MHz (PLLM/PLLN/PLLP) and enable ADC + I2C.
+   - Select the open project from existing `.ioc` file and use our `.ioc`. With this, CubeIDE will detup everything for you. You may need to replace the main.c it generates with ours.
 
 4. **Build and Flash**
    - Click **Build** (hammer icon) to compile.
